@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+}
+
+.container {
+  margin-top: 100px;
+}
+
+p:hover {
+  background: gray;
+  font-size: large;
+  font-weight: bold;
+}
